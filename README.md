@@ -40,4 +40,3 @@ Please note that this project serves as a basic example of sentiment analysis us
 
 Feel free to contribute, enhance, and adapt the code according to your requirements. If you have any questions or suggestions, please open an issue in the repository.
 
-**Happy Coding!**
